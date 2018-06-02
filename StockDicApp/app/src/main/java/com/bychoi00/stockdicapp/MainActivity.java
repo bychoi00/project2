@@ -88,7 +88,12 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
                 //Toast.makeText(getApplicationContext(), "Selected: " + position, Toast.LENGTH_SHORT).show();
-                viewPager.setCurrentItem(position);
+                try{
+                    viewPager.setCurrentItem(position,false);
+                }
+                catch (Exception ex){
+                    ex.printStackTrace();
+                }
             }
             @Override
             public void onNothingSelected(AdapterView<?> parent) {

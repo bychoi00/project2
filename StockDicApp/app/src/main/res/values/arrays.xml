@@ -45,9 +45,9 @@
         <item>공매도</item>
         <item>물리다</item>
         <item>보합</item>
-        <item>평단</item>
         <item>이동평균선(이평선)</item>
-        <item>시가/종가</item>
+        <item>평단</item>
         <item>양봉/음봉</item>
+        <item>시가/종가</item>
     </string-array>
 </resources>
