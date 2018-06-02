@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "195060122051",
+    "firebase_url": "https://stockdictapp.firebaseio.com",
+    "project_id": "stockdictapp",
+    "storage_bucket": "stockdictapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195060122051:android:a05ed55093818b46",
+        "android_client_info": {
+          "package_name": "com.bychoi00.bankdictapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195060122051-oq4e729johqje04i1gph35t3hejirsq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bychoi00.bankdictapp",
+            "certificate_hash": "1aa5914cf798fdc4717cddcfd699db9a487dacc8"
+          }
+        },
+        {
+          "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWLwqhAweoDP2b0VQSzcvbN1byAws8HY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195060122051:android:4ae16f5d3724900c",
+        "android_client_info": {
+          "package_name": "com.bychoi00.stockdicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195060122051-i8rmo2ln2bmhi2a86io05mlpvjfi0f26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bychoi00.stockdicapp",
+            "certificate_hash": "1aa5914cf798fdc4717cddcfd699db9a487dacc8"
+          }
+        },
+        {
+          "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIWLwqhAweoDP2b0VQSzcvbN1byAws8HY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195060122051-42jogj11l3jkop81t2mu74hfkicgmtdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
