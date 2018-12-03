@@ -1,18 +1,14 @@
 package com.bychoi00.stockdicapp;
 
-import android.graphics.Color;
-import android.graphics.PorterDuff;
+import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.ListPopupWindow;
-import android.widget.RelativeLayout;
 import android.widget.Spinner;
-import android.widget.Toast;
 
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
@@ -20,8 +16,6 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 
 import java.lang.reflect.Field;
-import java.util.ArrayList;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
