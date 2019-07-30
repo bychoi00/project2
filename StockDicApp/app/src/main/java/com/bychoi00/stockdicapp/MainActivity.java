@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
         mAdView2.loadAd(adRequest);
+
         //interstitial Ads
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId(InterstitialAdID);
@@ -105,7 +106,8 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public void onBackPressed() {
-        showInterstitial();
+        //showInterstitial();
+        super.onBackPressed();
     }
 }
 
