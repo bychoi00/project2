@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
     defaultConfig {
         applicationId "com.bychoi00.stockdicapp"
         minSdkVersion 15
-        targetSdkVersion 27
-        versionCode 4
-        versionName "1.4"
+        targetSdkVersion 28
+        versionCode 6
+        versionName "1.6"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
